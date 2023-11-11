@@ -1,2 +1,1 @@
-# pm_ban_laptop
-ps
+vinh đập trai
