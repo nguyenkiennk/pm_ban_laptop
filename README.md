@@ -1,2 +1,1 @@
-# pm_ban_laptop
-ps
+tuan anh đập trai
